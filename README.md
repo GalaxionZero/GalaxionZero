@@ -1,4 +1,4 @@
-- Name's Guntur, or as I've named myself here, GalaxionZero. I'm currently studying in Informatics or Computer Science.
+- Name's Guntur, or my more widely used nickname online, Zero. I'm currently studying in Informatics or Computer Science.
 
 <!---
 GalaxionZero/GalaxionZero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
